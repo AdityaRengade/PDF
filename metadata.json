@@ -1,0 +1,7 @@
+{
+  "name": "OmniPDF AI Workspace",
+  "description": "A sophisticated AI-powered PDF editing and analysis platform that allows you to transform, summarize, and rewrite document content with Gemini's intelligence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
